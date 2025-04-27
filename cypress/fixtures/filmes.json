@@ -1,0 +1,35 @@
+[
+    {
+        "titulo": "The Lord of the Rings: The Fellowship of the Ring",
+        "ano": 2001,
+        "genero": "Fantasia"
+    },
+
+    {
+        "titulo": "Batman",
+        "ano": 1989,
+        "genero": "Ação"
+    },
+
+    {
+        "titulo": "The Matrix",
+        "ano": 1999,
+        "genero": "Ação"
+    },
+
+    {
+        "titulo": "Spider-Man: No Way Home",
+        "ano": 2021,
+        "genero": "Ação"
+    },
+
+    {
+        "titulo": "The Godfather",
+        "ano": 1972,      
+        "genero": "Fantasia"
+    }
+
+
+
+
+]
