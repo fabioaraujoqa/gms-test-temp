@@ -4,6 +4,12 @@ describe('US-012-Funcionalidade: Busca de filmes', () => {
     beforeEach(() => {
         cy.visit('/')
     });
+
+    afterEach(() => {
+        cy.screenshot()
+
+    });
+
 it ('Deve buscar filmes com sucesso', () => {
     cy.get('#search-input').type('Star Wars')
     cy.get('#search-button').click()
